@@ -24,7 +24,7 @@
 
 ## Links 
 
-https://github.com/adeha047/Workout-Tracker
+https://github.com/adeha047/Progressive-Budget
 
 https://tranquil-taiga-50357.herokuapp.com/
 

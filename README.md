@@ -26,7 +26,7 @@
 
 https://github.com/adeha047/Workout-Tracker
 
-https://murmuring-castle-07897.herokuapp.com
+https://tranquil-taiga-50357.herokuapp.com/
 
 ## Usage
 

@@ -20,7 +20,7 @@
 
 ## Demo
 
-![demo](/assets/workout-tracker.gif)
+![demo](/assets/budget.gif)
 
 ## Links 
 

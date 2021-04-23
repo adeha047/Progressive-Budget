@@ -34,8 +34,12 @@ https://tranquil-taiga-50357.herokuapp.com/
 ## Tech Used
 
 1. MongoDB
+2. IndexedDb
 2. Express
 3. Node
+4. HTML
+5. CSS
+
 
 
 ## Licenses

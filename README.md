@@ -20,7 +20,7 @@
 
 ## Demo
 
-![demo](./assets/budget.gif)
+![demo](/assets/budget.gif)
 
 ## Links 
 
